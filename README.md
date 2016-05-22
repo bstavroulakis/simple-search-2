@@ -1,5 +1,3 @@
-<!--
-
 ### General Info `<simple-search>`
 
 `<simple-search>` shows a search input area on your page.
@@ -32,5 +30,3 @@ Custom property | Description | Default
 ----------------------------|--------------------------------------------|----------
 
 `--search-primary-color` | The color of the buttons | `#303F9F`
-
--->
